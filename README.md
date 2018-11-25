@@ -4,7 +4,7 @@ User Experience (UX) Design is a process that can be used to design anything fro
 
 Don Norman of [Nielsen Norman Group](https://nngroup.com) coined the term 'user experience' in the early days at Apple.
 
->'User Experience' encompasses all aspects of the end-user's interaction with the company, its' services and its' products.<>
+>'User Experience' encompasses all aspects of the end-user's interaction with the company, its services, and its products.
 
 **The job of a UX Professional is to investigate the cause of conflict and resolve it.**
 
@@ -15,12 +15,16 @@ HCD is a framework that follows a hands-on, user-centric approach to problem sol
 --Source: Codergirl, Launchcode, St Louis, Mo
 
 **Empathize:**  Learning the patterns of behavior.  Find out what the users do, say, think and feel.
+
 **Define:**  Define the user problem that you will focus on.  This is done by analying all the research from the empathy stage and grouping common pain points for example.
+
 **Ideate:**  Totally free creativity here!  Brainstorm.  Come up with as many ideas as you can.  No idea is too crazy. Try to meet the users needs that were identified in the define phase.
+
 **Prototype:**  Build, get feedback, refine, and repeat.  The goal here is to make sure your solution is on target by creating something simple and quick to present to the users to get feedback.
+
 **Test:**  Return to the original users for feedback if this solution has improved how they feel, think and do their task.  Does it achieve their goals?
 
-Tools to use to accomplish the five phases:
+# Tools that can be uses to accomplish these five phases:
 ![hcd_tools](https://user-images.githubusercontent.com/32137384/48984807-38af3f00-f0c6-11e8-9e61-a4f9e1e65f0f.png)
 --Source: Codergirl, Launchcode, St Louis, Mo
 
