@@ -1,6 +1,15 @@
 ## User Experience Design
 
-User Experience (UX) Design is a proces....
+User Experience (UX) Design is a process that can be used to design anything from products to bicycles to mobile applications.  The focus of this design process puts the users' needs first and making their interaction with the product a pleasureable one.  
+
+Don Norman of [Nielsen Norman Group](https://nngroup.com) coined the term 'user experience' in the early days at Apple.
+"User Experience" encompasses all aspects of teh end-user's interaction with the company, its services and its products."
+
+The job of a UX Professional is to investigate the cause of conflict and resolve it.
+
+### Human-Centered Design
+HCD is a framework that follows a hands-on, user-centric approach to problem solving.
+
 
 
 
