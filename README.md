@@ -4,7 +4,7 @@ User Experience (UX) Design is a process that can be used to design anything fro
 
 Don Norman of [Nielsen Norman Group](https://nngroup.com) coined the term 'user experience' in the early days at Apple.
 
->'User Experience' encompasses all aspects of the end-user's interaction with the company, its' services and its' products.
+>'User Experience' encompasses all aspects of the end-user's interaction with the company, its' services and its' products.<>
 
 **The job of a UX Professional is to investigate the cause of conflict and resolve it.**
 
