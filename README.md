@@ -3,7 +3,7 @@ with a closer look at the role of UI Design in this process._
 
 <br />
 
-<br />
+
 
 # User Experience (UX) Design
 
