@@ -1,3 +1,7 @@
+_-An overview of UX Design using the Human-Centered Design framework
+with a closer look at the role of UI Design in this process._
+
+
 # User Experience (UX) Design
 
 UX Design is a process that can be used to design anything from products to bicycles to mobile applications.  The focus of this design process puts the users' needs first--making their interaction with the product a pleasureable one.  
@@ -120,5 +124,7 @@ Even though it is better if the system can be used without documentation, it may
 
 ![help](https://user-images.githubusercontent.com/32137384/49033993-52a85a80-f176-11e8-8a07-1016647f3b65.png)
 
+#### In summary, UX design is understanding the user needs and pain points, through user research, protyping and testing.  Then arriving at a solution that will solve this conflict and accomplish the goals.  
 
+#### Once the solution has been identified, the UI designer creates the visual, digital interface that will best serve this solution.
 
