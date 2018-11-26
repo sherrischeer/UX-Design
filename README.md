@@ -37,21 +37,17 @@ HCD is a framework that follows a hands-on, user-centric approach to problem sol
 ### Ultimately, the goal is to connect the business goals to the user's needs through this process of testing and refinement so that all parties are satisfied.
 
 <br />
-<br />
 
 # User Interface (UI) Design  
 
-UI Design falls under the Ideate phase of the design process.  It is a part of the UX design process, but the goal is different.  The UI Designer is responsible for transferring the products research, content and layout into an attractive, guiding, responsive experience for the users.  It is a digital, visual part of the process.
+UI Design falls under the **Ideate phase** of the design process.  It is a part of the UX design process, but the goal is different.  The UI Designer is responsible for transferring the products research, content and layout into an attractive, guiding, responsive experience for the users.  It is a digital, visual part of the process.
 
 The UI Designers work closely to the UX designers to make sure every step the user will experience in their interaction will conform to the overall vision created by the UX Designers.
 
-Jakob Nielsen [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/) wrote an article giving 10 general principles for User Interface Design:
 
 ## 10 General Principles for User Interface Design
 
 Source: Jakob Nielsen [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/) 
-
-<br />
 
 ### 1. Visibility of system status 
 
