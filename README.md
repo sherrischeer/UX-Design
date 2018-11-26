@@ -50,7 +50,13 @@ The Progress Bar is an example of Visibility.  It gives the user a sense of cont
 
 The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
 
+Airbnb uses simple familiar language and booking form.
 
+![airbnb homepage](https://user-images.githubusercontent.com/32137384/48988260-2c3cdd80-f0ea-11e8-8951-95f0517d942d.png)
+
+3. User control and freedom
+
+Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.
 
 
 
