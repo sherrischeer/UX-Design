@@ -6,13 +6,17 @@ Don Norman of [Nielsen Norman Group](https://www.nngroup.com/articles/definition
 
 >'User Experience' encompasses all aspects of the end-user's interaction with the company, its services, and its products.
 
-**The job of a UX Professional is to investigate the cause of conflict and resolve it.**
+### The job of a UX Professional is to investigate the cause of conflict and resolve it.
+
+<br />
 
 ## Human-Centered Design
 HCD is a framework that follows a hands-on, user-centric approach to problem solving.
 
 ![hcd](https://user-images.githubusercontent.com/32137384/48984794-0867a080-f0c6-11e8-9328-e1eab615b36f.png)
 --Source: Codergirl, Launchcode, St Louis, Mo
+
+<br />
 
 **Empathize:**  Learning the patterns of behavior.  Find out what the users do, say, think and feel.
 
@@ -24,11 +28,16 @@ HCD is a framework that follows a hands-on, user-centric approach to problem sol
 
 **Test:**  Return to the original users for feedback if this solution has improved how they feel, think and do their task.  Does it achieve their goals?
 
+<br />
+
 ## Tools that will help us through the HCD Process:
 ![hcd_tools](https://user-images.githubusercontent.com/32137384/48984807-38af3f00-f0c6-11e8-9e61-a4f9e1e65f0f.png)
 --Source: Codergirl, Launchcode, St Louis, Mo
 
-**Ultimately, the goal is to connect the business goals to the user's needs through this process of testing and refinement so that all parties are satisfied.**
+### Ultimately, the goal is to connect the business goals to the user's needs through this process of testing and refinement so that all parties are satisfied.
+
+<br />
+<br />
 
 # User Interface (UI) Design  
 
@@ -38,7 +47,13 @@ The UI Designers work closely to the UX designers to make sure every step the us
 
 Jakob Nielsen [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/) wrote an article giving 10 general principles for User Interface Design:
 
-1. Visibility of system status 
+## 10 General Principles for User Interface Design
+
+Source: Jakob Nielsen [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/) 
+
+<br />
+
+### 1. Visibility of system status 
 
 The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.
 
@@ -46,7 +61,7 @@ The Progress Bar is an example of Visibility.  It gives the user a sense of cont
 
 ![responsive checkout progress bar](https://user-images.githubusercontent.com/32137384/48987981-673e1180-f0e8-11e8-8c2a-75304032a3a5.png)
 
-2. Match between system and the real world 
+### 2. Match between system and the real world 
 
 The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
 
@@ -54,7 +69,7 @@ Airbnb uses simple familiar language and booking form.
 
 ![airbnb homepage](https://user-images.githubusercontent.com/32137384/48988260-2c3cdd80-f0ea-11e8-8951-95f0517d942d.png)
 
-3. User control and freedom
+### 3. User control and freedom
 
 Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.
 
