@@ -14,6 +14,8 @@ Don Norman of [Nielsen Norman Group](https://www.nngroup.com/articles/definition
 
 <br />
 
+<br />
+
 One way to do this is through a process called **Human-Centered Design:**
 
 ## Human-Centered Design
@@ -21,8 +23,6 @@ HCD is a framework that follows a hands-on, user-centric approach to problem sol
 
 ![hcd](https://user-images.githubusercontent.com/32137384/48984794-0867a080-f0c6-11e8-9328-e1eab615b36f.png)
 --Source: Codergirl, Launchcode, St Louis, Mo
-
-<br />
 
 **Empathize:**  Learning the patterns of behavior.  Find out what the users do, say, think and feel.
 
@@ -36,11 +36,13 @@ HCD is a framework that follows a hands-on, user-centric approach to problem sol
 
 <br />
 
-## Tools that will help us through the HCD Process:
+### Tools that will help us through the HCD Process:
 ![hcd_tools](https://user-images.githubusercontent.com/32137384/48984807-38af3f00-f0c6-11e8-9e61-a4f9e1e65f0f.png)
 --Source: Codergirl, Launchcode, St Louis, Mo
 
 #### Ultimately, the goal of HCD is to connect the business goals to the user's needs through this process of testing and refinement so that all parties are satisfied.
+
+<br />
 
 <br />
 
@@ -124,7 +126,9 @@ Even though it is better if the system can be used without documentation, it may
 
 ![help](https://user-images.githubusercontent.com/32137384/49033993-52a85a80-f176-11e8-8a07-1016647f3b65.png)
 
-#### In summary, UX design is understanding the user needs and pain points, through user research, protyping and testing.  Then arriving at a solution that will solve this conflict and accomplish the goals.  
+#### In summary: 
+
+#### UX design is understanding the user needs and pain points, through user research, protyping and testing.  Then arriving at a solution that will solve this conflict and accomplish the goals.  
 
 #### Once the solution has been identified, the UI designer creates the visual, digital interface that will best serve this solution.
 
