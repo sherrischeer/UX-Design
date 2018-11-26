@@ -51,7 +51,7 @@ The UI Designers work closely to the UX designers to make sure every step the us
 
 ## 10 General Principles for User Interface Design
 
-Source: Jakob Nielsen [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/) 
+-Source: Jakob Nielsen [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/) 
 
 ### 1. Visibility of system status 
 
@@ -97,6 +97,9 @@ Minimize the user's memory load by making objects, actions, and options visible.
 ### 7. Flexibility and efficiency of use
 
 Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
+
+![keyboard shortcuts in sketch](https://user-images.githubusercontent.com/32137384/49032430-1ffc6300-f172-11e8-85a9-5e1f56573ce3.png)
+-Source: [Medium Corporation](https://medium.com/uxreactor/the-ux-case-for-integrating-accelerators-in-your-designs-23825b212332) 
 
 ### 8. Aesthetic and minimalist design
 
