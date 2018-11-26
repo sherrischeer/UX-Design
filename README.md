@@ -137,7 +137,7 @@ Even though it is better if the system can be used without documentation, it may
 
 #### In summary: 
 
-#### UX design is understanding the user needs and pain points, through user research, protyping and testing.  Then arriving at a solution that will solve this conflict and accomplish the goals.  
+#### UX design is understanding the user needs and pain points, through user research, prototyping and testing.  Then arriving at a solution that will solve this conflict and accomplish the goals.  
 
 #### Once the solution has been identified, the UI designer creates the visual, digital interface that will best serve this solution.
 
