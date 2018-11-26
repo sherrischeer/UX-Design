@@ -99,19 +99,26 @@ Minimize the user's memory load by making objects, actions, and options visible.
 Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
 
 ![keyboard shortcuts in sketch](https://user-images.githubusercontent.com/32137384/49032430-1ffc6300-f172-11e8-85a9-5e1f56573ce3.png)
+
 -Source: [Medium Corporation](https://medium.com/uxreactor/the-ux-case-for-integrating-accelerators-in-your-designs-23825b212332) 
 
 ### 8. Aesthetic and minimalist design
 
 Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
 
+![google sign in](https://user-images.githubusercontent.com/32137384/49033971-46240200-f176-11e8-9280-681a6dc41f89.png)
+
 ### 9. Help users recognize, diagnose, and recover from errors
 
 Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
 
+![error prevention](https://user-images.githubusercontent.com/32137384/49033984-4cb27980-f176-11e8-939b-64bf813ac428.png)
+
 ### 10. Help and documentation
 
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
+
+![help](https://user-images.githubusercontent.com/32137384/49033993-52a85a80-f176-11e8-8a07-1016647f3b65.png)
 
 
 
