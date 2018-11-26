@@ -85,7 +85,7 @@ Users should not have to wonder whether different words, situations, or actions 
 
 Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
 
-![error prevention](https://user-images.githubusercontent.com/32137384/49031599-0ce89380-f170-11e8-8f34-adec6202c41c.jpg)
+![iphone](https://user-images.githubusercontent.com/32137384/49034235-f6920600-f176-11e8-89a4-8f3f05f06e46.png)
 
 
 ### 6. Recognition rather than recall
