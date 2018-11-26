@@ -42,7 +42,9 @@ HCD is a framework that follows a hands-on, user-centric approach to problem sol
 
 # User Interface (UI) Design  
 
-UI Design falls under the **Ideate phase** of the design process.  It is a part of the UX design process, but the goal is different.  The UI Designer is responsible for transferring the products research, content and layout into an attractive, guiding, responsive experience for the users.  It is a digital, visual part of the process.
+UI Design falls under the **Ideate phase** of the design process.  It is a part of the UX design process, but the goal is different.  
+
+#### The UI Designer is responsible for transferring the products research, content and layout into an attractive, guiding, responsive experience for the users.  It is a digital, visual part of the process.
 
 The UI Designers work closely to the UX designers to make sure every step the user will experience in their interaction will conform to the overall vision created by the UX Designers.
 
