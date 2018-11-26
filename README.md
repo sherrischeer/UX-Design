@@ -79,6 +79,12 @@ Users often choose system functions by mistake and will need a clearly marked "e
 
 Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.
 
+![conventions](https://user-images.githubusercontent.com/32137384/49030053-e32d6d80-f16b-11e8-84a9-8dfb7acf352c.png)
+
+### 5. Error prevention
+
+Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
+
 
 
 
