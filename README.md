@@ -73,6 +73,12 @@ Airbnb uses simple familiar language and booking form.
 
 Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.
 
+![emergency exit](https://user-images.githubusercontent.com/32137384/49026851-7f537680-f164-11e8-9be0-6caf29409bf9.png)
+
+### 4. Consistency and standards
+
+Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.
+
 
 
 
