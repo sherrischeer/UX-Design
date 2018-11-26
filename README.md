@@ -38,9 +38,18 @@ The UI Designers work closely to the UX designers to make sure every step the us
 
 Jakob Nielsen [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/) wrote an article giving 10 general principles for User Interface Design:
 
-1. Visibility of system status - The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.
+1. Visibility of system status 
+
+The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.
 
 The Progress Bar is an example of Visibility.  It gives the user a sense of control and trust.
+
+![responsive checkout progress bar](https://user-images.githubusercontent.com/32137384/48987981-673e1180-f0e8-11e8-8c2a-75304032a3a5.png)
+
+2. Match between system and the real world 
+
+The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
+
 
 
 
