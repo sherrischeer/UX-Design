@@ -19,8 +19,6 @@ Don Norman of [Nielsen Norman Group](https://www.nngroup.com/articles/definition
 
 <br />
 
-<br />
-
 
 One way to do this is through a process called **Human-Centered Design:**
 
@@ -47,8 +45,6 @@ _-Source: Codergirl, Launchcode, St Louis, Mo_
 _-Source: Codergirl, Launchcode, St Louis, Mo_
 
 #### Ultimately, the goal of HCD is to connect the business goals to the user's needs through this process of testing and refinement so that all parties are satisfied.
-
-<br />
 
 <br />
 
@@ -138,9 +134,6 @@ Even though it is better if the system can be used without documentation, it may
 <br />
 
 <br />
-
-<br />
-
 
 #### In summary: 
 
