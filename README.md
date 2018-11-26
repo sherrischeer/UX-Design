@@ -6,11 +6,11 @@ Don Norman of [Nielsen Norman Group](https://www.nngroup.com/articles/definition
 
 >'User Experience' encompasses all aspects of the end-user's interaction with the company, its services, and its products.
 
-### The job of a UX Professional is to investigate the cause of conflict and resolve it.
-
-One way to do this is through a process called **Human-Centered Design:**
+#### The job of a UX Professional is to investigate the cause of conflict and resolve it.
 
 <br />
+
+One way to do this is through a process called **Human-Centered Design:**
 
 ## Human-Centered Design
 HCD is a framework that follows a hands-on, user-centric approach to problem solving.
@@ -36,7 +36,7 @@ HCD is a framework that follows a hands-on, user-centric approach to problem sol
 ![hcd_tools](https://user-images.githubusercontent.com/32137384/48984807-38af3f00-f0c6-11e8-9e61-a4f9e1e65f0f.png)
 --Source: Codergirl, Launchcode, St Louis, Mo
 
-### Ultimately, the goal of HCD is to connect the business goals to the user's needs through this process of testing and refinement so that all parties are satisfied.
+#### Ultimately, the goal of HCD is to connect the business goals to the user's needs through this process of testing and refinement so that all parties are satisfied.
 
 <br />
 
